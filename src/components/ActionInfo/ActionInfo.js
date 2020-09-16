@@ -19,7 +19,7 @@ const ActionInfo = ({ transactions, categories }) => {
         <p className={css.header__name}>date</p>
         <p className={css.header__name}>type</p>
         <p className={css.header__name}>category</p>
-        <p className={css.header__name}>coments</p>
+        <p className={css.header__name}>comments</p>
         <p className={css.header__name}>amount</p>
         <p className={css.header__name}>balance after</p>
       </div>
